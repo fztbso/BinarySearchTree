@@ -4,7 +4,7 @@ Proje 3
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
---cevap--
+---cevap---
 
 root = 7
 
